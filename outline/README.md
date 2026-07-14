@@ -59,8 +59,8 @@ Use your own domain for `OUTLINE_URL` if self-hosting. A template is provided in
 **Claude Code (personal, all projects):**
 
 ```bash
-git clone https://github.com/inovve/skills.git
-cp -r skills/outline ~/.claude/skills/outline
+git clone https://github.com/inovve/homelab-agent-skills.git
+cp -r homelab-agent-skills/outline ~/.claude/skills/outline
 ```
 
 **Claude Code (single project):** copy the `outline/` folder to `.claude/skills/outline` inside the project.
