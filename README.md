@@ -10,6 +10,7 @@ Self-hosted apps rarely get official AI integrations. But most of them expose so
 |---|---|---|
 | [outline](outline/) | [Outline](https://www.getoutline.com) wiki (self-hosted or cloud) | Search, read, create, update, move, and export documents and collections; comments, attachments, public shares, users and groups. |
 | [crawl4ai](crawl4ai/) | [crawl4ai](https://github.com/unclecode/crawl4ai) crawler (Docker) | Turn any URL into clean LLM-ready markdown; screenshots, PDFs, JavaScript execution on live pages, structured CSS/LLM extraction, batch and deep site crawls. |
+| [humanizar-ptpt](humanizar-ptpt/) | None — pure writing skill, no app required | Review and rewrite text into natural, human-sounding European Portuguese (pt-PT): strips Brazilian Portuguese vocabulary and common AI-writing patterns. Docs in Portuguese; includes a plain system-prompt version for any agent. |
 
 More skills for common homelab services are planned. PRs welcome — the [outline](outline/) skill is a good template: a `SKILL.md` with conventions and common operations, a full API reference in `references/`, and a zero-dependency helper script.
 
